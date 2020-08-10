@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### My name is Thiago.     
 #### My journey at programming started 2 years ago (august 2018) 
 #### when i did my firts Hello World using Python.
-#### 3 months later i joined the Science and Technology Federal Intitute of Pará 
+#### 3 months later i joined the Science and Technology Federal Institute of Pará 
 #### where i'm currently doing Analysis and Systems Development associate course.
 ---
 #### Lately i'm focusing on learning JavaScript technologies like
