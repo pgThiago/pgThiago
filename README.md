@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 #### 3 months later i joined the Technology and Science Federal Intitute of Pará 
 #### where i'm currently doing Analysis and Systems Development associate degree course.
 ---
-#### Lately i'm focusing on learning JavaScript technologies 
-#### like React && React Native && Node.js 
-#### since my goal is to be a full stack developer. 
+#### Lately i'm focusing on learning JavaScript technologies like
+#### React && React Native && Node.js since my goal is
+#### to be a full stack developer. 
 ---
-#### If you are also beginner at programming world let's go together. 
+#### If you are also a beginner at programming world let's go together.  
