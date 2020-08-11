@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 #### React && React Native && Node.js since my goal is to be a
 #### full stack developer. 
 ---
-#### If you are also beginner at programming world, let's go together:
+#### If you are also a beginner at programming world, let's go together:
 [LinkedIn](www.linkedin.com/in/thiago-silva-bb2b67185)
 
