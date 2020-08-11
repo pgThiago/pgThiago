@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pgthiago&repo=pgThiago&layout=compact&theme=synthwave)](https://github.com/pgthiago/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pgthiago&repo=pgThiago&layout=compact&theme=synthwave)](https://github.com/pgthiago)
 
-[![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=synthwave&include_all_commits=true)](https://github.com/pgthiago/github-readme-stats)
+[![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=synthwave&include_all_commits=true)](https://github.com/pgthiago)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=synthwave)](https://github.com/pgthiago/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=synthwave)](https://github.com/pgthiago)
 
 ---     
 #### My journey at programming started 2 years ago (august 2018) 
