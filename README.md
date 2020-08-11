@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### My name is Thiago.     
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pgthiago&repo=pgThiago&layout=compact&theme=synthwave)](https://github.com/pgthiago/github-readme-stats)
+
+[![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=synthwave&include_all_commits=true)](https://github.com/pgthiago/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=synthwave)](https://github.com/pgthiago/github-readme-stats)
+
+---     
 #### My journey at programming started 2 years ago (august 2018) 
 #### when i did my first Hello World using Python.
 #### 3 months later i joined the Science and Technology Federal Institute of Pará 
@@ -26,3 +32,4 @@ Here are some ideas to get you started:
 ---
 #### If you are also beginner at programming world, let's go together:
 [LinkedIn](www.linkedin.com/in/thiago-silva-bb2b67185)
+
