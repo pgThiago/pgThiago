@@ -29,6 +29,7 @@ where I am currently taking a course in Systems Analysis and Development.
 Lately, I'm focusing on learning JavaScript technologies like
 React && React Native && Node.js, because my goal is to be a
 full stack developer.
+---
 If you are also a beginner in the world of programming, let's go together:
 [LinkedIn](www.linkedin.com/in/thiago-silva-bb2b67185)
 
