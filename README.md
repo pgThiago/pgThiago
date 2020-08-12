@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=synthwave)](https://github.com/pgthiago)
 
 ---     
-#### My journey at programming started 2 years ago (august 2018) 
-#### when i did my first "Hello, World" using Python.
-#### 3 months later i joined the Science and Technology Federal Institute of Pará 
-#### where i'm currently doing Analysis and Systems Development associate course.
+My programming journey started 2 years ago (August 2018)
+when I made my first "Hello, World" using Python.
+3 months later I joined the Federal Institute of Science and Technology of Pará
+where I am currently taking a course in Systems Analysis and Development.
 ---
-#### Lately i'm focusing on learning JavaScript technologies like
-#### React && React Native && Node.js since my goal is to be a
-#### full stack developer. 
----
-#### If you are also a beginner at programming world, let's go together:
+Lately, I'm focusing on learning JavaScript technologies like
+React && React Native && Node.js, because my goal is to be a
+full stack developer.
+If you are also a beginner in the world of programming, let's go together:
 [LinkedIn](www.linkedin.com/in/thiago-silva-bb2b67185)
 
