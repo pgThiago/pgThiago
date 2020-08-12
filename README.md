@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 My programming journey started 2 years ago (August 2018)
 when I made my first "Hello, World" using Python.
 3 months later I joined the Federal Institute of Science and Technology of Pará
-where I am currently taking a course in Systems Analysis and Development.
+where I am currently taking a course in Analysis and Systems Development.
 ---
 Lately, I'm focusing on learning JavaScript technologies like
 React && React Native && Node.js, because my goal is to be a
@@ -32,4 +32,4 @@ full stack developer.
 ---
 If you are also a beginner in the world of programming, let's go together:
 [LinkedIn](www.linkedin.com/in/thiago-silva-bb2b67185)
-
+---
