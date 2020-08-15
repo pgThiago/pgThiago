@@ -31,5 +31,5 @@ React && React Native && Node.js, because my goal is to be a
 full stack developer.
 ---
 If you are also a beginner in the world of programming, let's go together:
-[LinkedIn](www.linkedin.com/in/thiago-silva-bb2b67185)
+[LinkedIn](https://www.linkedin.com/in/thiago-silva-bb2b67185/)
 ---
