@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 <p>
   If you are also a beginner in the world of programming, let's go together:
 </p>
-[!LinkedIn](https://www.linkedin.com/in/thiago-silva-bb2b67185/)
+
+[LinkedIn](https://www.linkedin.com/in/thiago-silva-bb2b67185/)
