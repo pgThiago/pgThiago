@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=synthwave&include_all_commits=true)](https://github.com/pgthiago)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=synthwave)](https://github.com/pgthiago)
-
 ---     
 <p>
   My programming journey started 2 years ago (August 2018)
@@ -41,3 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 [LinkedIn](https://www.linkedin.com/in/thiago-silva-bb2b67185/)
+
+[![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=synthwave&include_all_commits=true)](https://github.com/pgthiago)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=synthwave)](https://github.com/pgthiago)
