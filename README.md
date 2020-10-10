@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p>
   Lately, I'm focusing on learning JavaScript technologies like
-  React && React Native && Node.js, because my goal is to be a
+  React && React Native && Node.js since my goal is to be a
   full stack developer.
 </p>
 
