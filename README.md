@@ -32,11 +32,6 @@ Here are some ideas to get you started:
   full stack developer.
 </p>
 
-<p>
-  If you are also a beginner in the world of programming, let's go together:
-</p>
-
-[LinkedIn](https://www.linkedin.com/in/thiago-silva-bb2b67185/)
 
 [![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=synthwave&include_all_commits=true)](https://github.com/pgthiago)
 
