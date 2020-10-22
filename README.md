@@ -1,8 +1,8 @@
 ### Hi there 👋,
 
-My programming journey started 2 years ago (august 2018) when I made my first "Hello, World" using Python.
+My programming journey started two years ago (august 2018) when I made my first "Hello, World" using Python.
 
-3 months later I joined the Federal Institute of Science and Technology of Pará where I am currently taking a course in Systems Analysis and Development.
+Three months later I joined the Federal Institute of Science and Technology of Pará where I am currently taking a course in Systems Analysis and Development.
 
 ---
 
