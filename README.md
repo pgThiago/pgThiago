@@ -1,43 +1,37 @@
-# Hello, world 👋
+### Hi there 👋,
+#### I am a student of Systems Analysis and Development.
 
-<!--
-**pgThiago/pgThiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My programming journey started 2 years ago (august 2018) when I made my first "Hello, World" using Python.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
----     
-<p>
-  My programming journey started 2 years ago (August 2018)
-  when I made my first "Hello, World" using Python.
-</p>
-
-<p>
-  3 months later I joined the Federal Institute of Science and Technology of Pará
-  where I am currently taking a course in Analysis and Systems Development.
-</p>
-
-<p>
-  Lately, I'm focusing on learning JavaScript technologies like
-  React && React Native && Node.js since my goal is to be a
-  full stack developer.
-</p>
+#### 3 months later I joined the Federal Institute of Science and Technology of Pará where I am currently taking a course in Analysis and Systems Development.
 
 ---
+
+### Basic skills: React JS, React Native and Node JS.
+
+---
+
+- 🔭 I’m currently working on [Happy 2.0](https://github.com/pgThiago/next-level-week-3.0). 
+- 🌱 I’m currently learning React, Node, SQL, Git, etc. 
+- 👯 I’m looking to collaborate on small projects. 
+- 🤔 I’m looking for help with getting real world projects. 
+- 💬 Ask me about the universe.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiago-silva-bb2b67185/).  
+- ⚡ Fun fact: I am always learning and i am always out of date. 
+
+---
+
+### Details:
 
 [![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=midnight-purple&include_all_commits=true)](https://github.com/pgthiago)
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=midnight-purple)](https://github.com/pgthiago)
+
+---
+
+### More details:
+
+![GitHub metrics](https://metrics.lecoq.io/pgThiago)
 
 ---
