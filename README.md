@@ -1,4 +1,4 @@
-### Hi there 👋,
+## Hi there 👋,
 
 My programming journey started two years ago (august 2018) when I made my first "Hello, World" using Python.
 
@@ -6,7 +6,7 @@ Three months later I joined the Federal Institute of Science and Technology of P
 
 ---
 
-#### Basic skills: React JS, React Native and Node JS.
+### Basic skills: React JS, React Native and Node JS.
 
 ---
 
@@ -20,7 +20,7 @@ Three months later I joined the Federal Institute of Science and Technology of P
 
 ---
 
-#### Details:
+## Details:
 
 [![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=midnight-purple&include_all_commits=true)](https://github.com/pgthiago)
 
@@ -28,7 +28,7 @@ Three months later I joined the Federal Institute of Science and Technology of P
 
 ---
 
-#### More details:
+## More details:
 
 ![GitHub metrics](https://metrics.lecoq.io/pgThiago)
 
