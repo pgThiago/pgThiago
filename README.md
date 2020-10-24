@@ -1,35 +1,34 @@
-## Hi there 👋,
+<div float="left">
 
-My programming journey started two years ago (august 2018) when I made my first "Hello, World" using Python.
+## _Hi there_ 👋,
 
-Three months later I joined the Federal Institute of Science and Technology of Pará where I am currently taking a course in Systems Analysis and Development.
+_my programming journey started two years ago (august 2018) when I made my first "Hello, World" using Python._
 
----
-
-### Basic skills: React JS, React Native and Node JS.
+_Three months later I joined the Federal Institute of Science and Technology of Pará where I am currently taking a course in Systems Analysis and Development._
 
 ---
 
-- 🔭 I’m currently working on [Happy 2.0](https://github.com/pgThiago/next-level-week-3.0). 
-- 🌱 I’m currently learning React, Node, SQL, Git, etc. 
-- 👯 I’m looking to collaborate on small projects. 
-- 🤔 I’m looking for help with getting real world projects. 
-- 💬 Ask me about the universe.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thiago-silva-bb2b67185/).  
-- ⚡ Fun fact: I am always learning and i am always out of date. 
+### _Basic skills: React JS, React Native and Node JS._
 
 ---
 
-## Details:
+- 🔭 _I’m currently working on_ [_Happy 2.0_](https://github.com/pgThiago/next-level-week-3.0). 
+- 👯 _I’m looking to collaborate on small projects._
+- 🤔 _I’m looking for help with getting real world projects._
+- 💬 _Ask me about the universe._
+- 📫 _How to reach me:_ [_LinkedIn_](https://www.linkedin.com/in/thiago-silva-bb2b67185/).  
+- ⚡ _Fun fact: I am always learning and i am always out of date._
 
-[![Thiago github stats](https://github-readme-stats.vercel.app/api?username=pgthiago&theme=midnight-purple&include_all_commits=true)](https://github.com/pgthiago)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=midnight-purple)](https://github.com/pgthiago)
-
----
-
-## More details:
-
-![GitHub metrics](https://metrics.lecoq.io/pgThiago)
+</div>
 
 ---
+
+<div float="right">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pgthiago&theme=midnight-purple&include_all_commits=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=midnight-purple" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pgthiago&repo=pgthiago&theme=midnight-purple" />
+
+</div>
