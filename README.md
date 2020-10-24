@@ -29,6 +29,4 @@ _Three months later I joined the Federal Institute of Science and Technology of 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=midnight-purple" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pgthiago&repo=pgthiago&theme=midnight-purple" />
-
 </div>
