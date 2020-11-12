@@ -12,7 +12,7 @@ _Three months later I joined the Federal Institute of Science and Technology of 
 
 ---
 
-- 🔭 _I’m currently working on_ [_Happy 2.0_](https://github.com/pgThiago/next-level-week-3.0). 
+- 🔭 _I’m currently working on personal projects_. 
 - 👯 _I’m looking to collaborate on small projects._
 - 🤔 _I’m looking for help with getting real world projects._
 - 💬 _Ask me about the universe._
