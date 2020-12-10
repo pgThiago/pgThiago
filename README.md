@@ -1,6 +1,6 @@
 <div float="left">
 
-## _Hi there_ 👋,
+## _Hi there_,
 
 _my programming journey started two years ago (august 2018) when I made my first "Hello, World" using Python._
 
