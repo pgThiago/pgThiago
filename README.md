@@ -2,9 +2,9 @@
 
 ## _Hi there_,
 
-### _my programming journey started two years ago (august 2018) when I made my first "Hello, World" using Python._
+_my programming journey started two years ago (august 2018) when I made my first "Hello, World" using Python._
  
-### _Three months later I joined the Federal Institute of Science and Technology of Pará where I am currently taking a course in Systems Analysis and Development._
+_Three months later I joined the Federal Institute of Science and Technology of Pará where I am currently taking a course in Systems Analysis and Development._
 
 ---
 
