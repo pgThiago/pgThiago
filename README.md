@@ -19,9 +19,10 @@
 ---
 
 <div align="center">
-
-<h6>Languages with which I have had contact in chronological order</h6>
 <br>
+<h6>
+
+    Languages ​​with which I have had contact in chronological order
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -32,6 +33,7 @@
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</h6>
 
 </div>
 
@@ -41,9 +43,9 @@
 
 <div align="center">
 <br>
+<h6>
 
-<h6>Frameworks with which I have had contact in chronological order</h6>
-<br>
+    Frameworks ​​with which I have had contact in chronological order
 
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -53,6 +55,7 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+</h6>
 
 </div>
 
@@ -62,13 +65,15 @@
 
 <div align="center">
 <br>
-<h6>Databases with which I have had contact in chronological order</h6>
-<br>
+<h6>
+
+    Databases ​​with which I have had contact in chronological order
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+</h6>
 
 </div>
 
@@ -78,11 +83,13 @@
 
 <div align="center">
 <br>
-<h6>Version Control</h6>
-<br>
+<h6>
+
+    Version Control
 
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</h6>
 
 </div>
 
@@ -92,12 +99,19 @@
 
 <div align="center">
 <br>
-<h5>Contact</h5>
-<br>
-<a href="https://www.linkedin.com/in/thiago-silva-dev"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<h6>
 
+    Contact
+
+<a href="https://www.linkedin.com/in/thiago-silva-dev"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</h6>
 </div>
 
-<br>
+<br/>
 
-<h1 align="center">Projects</h1>
+<h1 style="border-bottom: none" align="center">
+    
+    Projects
+
+</h1
+
