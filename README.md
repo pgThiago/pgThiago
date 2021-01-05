@@ -10,6 +10,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgthiago&layout=compact&theme=great-gatsby&langs_count=20" />
 
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=pgthiago&theme=great-gatsby&include_all_commits=true" />
 
@@ -115,4 +120,3 @@
     Projects
 
 </h1
-
