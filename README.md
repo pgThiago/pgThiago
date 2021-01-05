@@ -22,7 +22,7 @@
 <br>
 <h6>
 
-    Languages ​​with which I have had contact in chronological order
+    Languages with which I have had contact in chronological order
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -45,7 +45,7 @@
 <br>
 <h6>
 
-    Frameworks ​​with which I have had contact in chronological order
+    Frameworks with which I have had contact in chronological order
 
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -67,7 +67,7 @@
 <br>
 <h6>
 
-    Databases ​​with which I have had contact in chronological order
+    Databases with which I have had contact in chronological order
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
