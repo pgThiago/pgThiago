@@ -18,7 +18,7 @@ Three months later I joined the Federal Institute of Science and Technology of P
 
 ---
 
-### Languages ​​with which I have had contact in chronological order:
+### Languages with which I have had contact in chronological order:
 
 <br>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,7 +33,7 @@ Three months later I joined the Federal Institute of Science and Technology of P
 
 ---
 
-### Frameworks ​​with which I have had contact in chronological order:
+### Frameworks with which I have had contact in chronological order:
 <br>
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -46,7 +46,7 @@ Three months later I joined the Federal Institute of Science and Technology of P
 
 ---
 
-### Databases ​​with which I have had contact in chronological order:
+### Databases with which I have had contact in chronological order:
 <br>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -65,8 +65,8 @@ Three months later I joined the Federal Institute of Science and Technology of P
 ### Contact:
 <br>
 
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thiago-silva-dev)
+<a href="https://www.linkedin.com/in/thiago-silva-dev" target="_blank" rel="noreferrer" rel="noopener"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Refresh the page to see another meme.">
