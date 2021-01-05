@@ -65,7 +65,7 @@ Three months later I joined the Federal Institute of Science and Technology of P
 ### Contact:
 <br>
 
-<a href="https://www.linkedin.com/in/thiago-silva-dev" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thiago-silva-dev"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
