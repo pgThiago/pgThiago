@@ -69,4 +69,6 @@ Three months later I joined the Federal Institute of Science and Technology of P
 
 ---
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Refresh the page to see another meme.">
+<div align="center">
+    <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Refresh the page to see another meme.">
+</div>
